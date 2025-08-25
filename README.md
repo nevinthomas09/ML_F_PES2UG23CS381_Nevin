@@ -2,4 +2,4 @@
 
 ## Contents
 
-This repo contains the week-wise submission to the Lab Component of the ML course.
+This repo contains the week-wise submissions to the lab components of the ML course.
